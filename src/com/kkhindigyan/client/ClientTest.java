@@ -3,7 +3,10 @@ package com.kkhindigyan.client;
 import com.kkhindigyan.org.Operation;
 import com.kkhindigyan.org.Walkable;
 import com.kkhindigyan.org.Welcome;
-
+/**
+ * @author KK HindiGyan
+ *This is an example of Lambda Expression
+ */
 public class ClientTest {
 
 	public static void main(String[] args) {
